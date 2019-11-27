@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Yogendra",
+    "rate": 15,
+    "currency": "Rs"
+  },
+  {
+    "name": "Rajendra",
+    "rate": 18,
+    "currency": "Rs"
+  },
+  {
+    "name": "Lokendra",
+    "rate": 20,
+    "currency": "Rs"
+  }
+]
